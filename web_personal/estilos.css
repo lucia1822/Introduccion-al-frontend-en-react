@@ -1,0 +1,13 @@
+body{
+    background-color: #f2f2e9;
+    text-align: center;
+}
+h1{
+    color: #0cb6b4;
+    text-shadow: 2px 2px 2px #f10e41;
+    font-size: 40px;
+}
+p{
+    color: #a8b38c;
+    font-size: 20px;
+}
